@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "612480837363",
+        "project_id": "winge-fc6aa",
+        "storage_bucket": "winge-fc6aa.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:612480837363:android:cdf3b496b8a0896f193986",
+                "android_client_info": {
+                    "package_name": "co.median.android.mbzlmrl"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyADPtLhTHR1MVnukzs2sL31zkh9hHfro4E"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
